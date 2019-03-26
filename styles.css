@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+input {
+    font-family:'Permanent Marker', cursive;
+}
+body {
+    background-color:blue;
+}
+button:hover{
+    color:yellow;
+}
+button {
+    color:red;
+    background-color:cyan;
+}
+h2 {
+    color:yellow;
+}
+.in{
+    color:red;
+    font-family:'ZCOOL QingKe HuangYou',cursive;
+}
